@@ -302,7 +302,7 @@ document.querySelectorAll(".reveal").forEach((el) => observer.observe(el));
    --------------------------------------------------------- */
 const form = document.getElementById("contactForm");
 const success = document.getElementById("formSuccess");
-const MY_EMAIL = "hello@josephdesigns.com"; // ← change to your real email
+const MY_EMAIL = "ajayijoseph642@gmail.com";
 
 function setError(input, msg) {
   const field = input.parentElement;
